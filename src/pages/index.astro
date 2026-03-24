@@ -6,9 +6,12 @@ import { company, contact, hizmetler, getWhatsAppUrl } from '../lib/site-data';
 <BaseLayout title="Ana Sayfa" description="Pendik UV Baskı Merkezi — Cam, pleksi, ahşap, metal ve daha birçok yüzeye profesyonel UV baskı hizmeti. Pendik İstanbul.">
 
   <!-- ===== HERO ===== -->
-  <section class="relative bg-gradient-to-br from-koyu-900 via-koyu-800 to-koyu-900 text-white overflow-hidden">
-    <div class="absolute inset-0 bg-[url('/images/hero-pattern.svg')] opacity-5"></div>
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-32 relative">
+  <section class="relative text-white overflow-hidden">
+    <div class="absolute inset-0">
+      <img src="/images/hero-bg.jpg" alt="UV baskı makinesi çalışırken" class="w-full h-full object-cover" />
+      <div class="absolute inset-0 bg-gradient-to-r from-koyu-900/90 via-koyu-900/75 to-koyu-900/50"></div>
+    </div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 lg:py-36 relative">
       <div class="max-w-3xl">
         <span class="inline-block bg-eymen-500/20 text-eymen-400 text-sm font-semibold px-4 py-1.5 rounded-full mb-6 fade-up">
           {company.experience} Yıllık Tecrübe

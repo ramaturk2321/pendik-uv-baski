@@ -77,7 +77,7 @@ export const company = {
   founded: 1999,
   experience: 25,
   siteUrl: 'https://www.pendikuvbaski.com',
-  logoPath: '/images/logo.png',
+  logoPath: '/images/uvlogo.jpeg',
   legalNote: 'Pendik UV Baskı Merkezi, Eymen Reklam ticari markasıdır.',
 };
 

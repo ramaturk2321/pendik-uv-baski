@@ -1,0 +1,78 @@
+{
+  "title": "Pleksi UV Baskı",
+  "description": "Pleksi (akrilik) yüzeylere yüksek kaliteli UV baskı. Tabela, dekoratif panel, ışıklı kutu harf ve menü panosu üretiminde profesyonel çözümler.",
+  "heroDesc": "Pleksi ve akrilik malzemelere uygulanan UV baskı ile tabelalardan ışıklı kutulara, dekoratif panellerden menü panolarına kadar geniş bir ürün yelpazesinde üstün kalitede baskı çözümleri sunuyoruz. Şeffaf, opak ve renkli pleksi üzerine doğrudan baskı ile markanızı öne çıkarın.",
+  "order": 2,
+  "icon": "💎",
+  "shortDesc": "Pleksi ve akriliğe UV baskı çözümleri",
+  "features": [
+    {
+      "icon": "✨",
+      "title": "Şeffaf Pleksiye Baskı",
+      "desc": "Şeffaf pleksi üzerine yapılan baskılar ışığı geçirerek etkileyici bir derinlik etkisi oluşturur. Arkadan aydınlatmalı uygulamalar için mükemmeldir."
+    },
+    {
+      "icon": "🔆",
+      "title": "Işıklı Kutu Uyumlu",
+      "desc": "LED aydınlatma ile birlikte kullanıma uygun baskı kalitesi sunar. Işıklı tabela ve kutu harflerde canlı ve homojen renk dağılımı sağlar."
+    },
+    {
+      "icon": "🛡️",
+      "title": "Dış Mekan Dayanımı",
+      "desc": "UV stabilize mürekkepler sayesinde dış mekan uygulamalarında bile renk solması minimuma indirilir. Yağmur, güneş ve rüzgara karşı dayanıklıdır."
+    },
+    {
+      "icon": "🖨️",
+      "title": "Beyaz Mürekkep Desteği",
+      "desc": "Şeffaf ve koyu renkli pleksilerde beyaz mürekkep alt katman uygulaması ile renkler gerçeğe en yakın tonlarda yansıtılır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Tasarım Gönderimi",
+      "desc": "Tasarımınızı dijital ortamda bize iletirsiniz. Pleksi türü, kalınlık ve ölçü bilgileri belirlenir."
+    },
+    {
+      "step": "02",
+      "title": "Malzeme Hazırlık & Prova",
+      "desc": "Pleksi yüzey temizlenerek baskıya hazır hale getirilir. Renk provaları oluşturularak tasarım onayınız alınır."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Flatbed UV yazıcıda pleksi yüzeye doğrudan baskı yapılır. Gerekli durumlarda beyaz mürekkep alt katmanı uygulanır."
+    },
+    {
+      "step": "04",
+      "title": "Kesim, Kontrol & Teslimat",
+      "desc": "Baskı sonrası lazer veya CNC kesim uygulanır. Kalite kontrol ardından güvenli paketleme ile teslimat gerçekleştirilir."
+    }
+  ],
+  "useCases": [
+    "Mağaza ve işyeri tabelası",
+    "Işıklı kutu harf tabela",
+    "Dekoratif duvar paneli",
+    "Restoran menü panosu",
+    "Fuar ve etkinlik standı",
+    "Yönlendirme ve bilgilendirme levhası"
+  ],
+  "faq": [
+    {
+      "q": "Şeffaf pleksiye baskı yapılabilir mi?",
+      "a": "Evet, şeffaf pleksiye UV baskı uygulanabilir. Beyaz mürekkep alt katman kullanılarak renkler canlı şekilde aktarılır. Arkadan aydınlatmalı tabelalar ve dekoratif paneller için çok tercih edilen bir yöntemdir."
+    },
+    {
+      "q": "Pleksi UV baskı dış mekanda kullanılabilir mi?",
+      "a": "Kesinlikle kullanılabilir. UV stabilize mürekkepler ve pleksinin kendi dayanıklılığı sayesinde dış mekan tabelaları, cephe panelleri ve yönlendirme levhalarında uzun ömürlü kullanım sağlanır."
+    },
+    {
+      "q": "Hangi kalınlıktaki pleksilere baskı yapabilirsiniz?",
+      "a": "2 mm ile 30 mm arasındaki pleksi malzemelere UV baskı uygulayabiliyoruz. En yaygın tercih edilen kalınlıklar tabela için 3-5 mm, dekoratif panel için 5-10 mm aralığındadır."
+    },
+    {
+      "q": "Pleksi UV baskıda teslim süresi ne kadardır?",
+      "a": "Standart siparişlerde teslim süresi tasarım onayından itibaren 2-4 iş günüdür. Acil işlerde aynı gün veya ertesi gün teslimat seçenekleri de mevcuttur."
+    }
+  ]
+}

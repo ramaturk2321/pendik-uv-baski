@@ -1,0 +1,78 @@
+{
+  "title": "Kompozit UV Baskı",
+  "description": "Kompozit panel (alüminyum kompozit) yüzeylere UV baskı. Dış cephe giydirme, tabela altlığı ve bina cephe dekorasyonunda profesyonel çözümler.",
+  "heroDesc": "Alüminyum kompozit panel (ACP) yüzeylere uygulanan UV baskı ile dış cephe giydirmelerden tabela altlıklarına, bina cephelerinden ticari mekan dekorasyonlarına kadar geniş kapsamlı ve dayanıklı baskı çözümleri üretiyoruz. Hafif yapısı ve yüksek mukavemeti sayesinde kompozit panel büyük yüzey uygulamaları için en ideal malzemedir.",
+  "order": 6,
+  "icon": "🏗️",
+  "shortDesc": "Kompozit panele cephe ve tabela baskısı",
+  "features": [
+    {
+      "icon": "🏢",
+      "title": "Dış Cephe Uygunluğu",
+      "desc": "Kompozit panelin hava koşullarına dayanıklı yapısı ve UV mürekkebin solmaya direnci birleşerek dış cephelerde yıllarca sorunsuz performans sağlar."
+    },
+    {
+      "icon": "📏",
+      "title": "Büyük Boyut Baskı",
+      "desc": "Geniş formatlı UV yazıcılarımız sayesinde büyük boyutlu kompozit panellere tek parça halinde kesintisiz baskı yapılabilir."
+    },
+    {
+      "icon": "🪶",
+      "title": "Hafif ve Mukavemetli",
+      "desc": "Kompozit panelin hafif yapısı montajı kolaylaştırır. Alüminyum dış katmanlar ise darbe ve bükülmeye karşı yüksek dayanım sunar."
+    },
+    {
+      "icon": "🎨",
+      "title": "Zengin Renk Gamı",
+      "desc": "CMYK + beyaz mürekkep sistemiyle milyonlarca renk tonu elde edilir. Kurumsal renk kodları birebir eşleştirilerek marka tutarlılığı sağlanır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Proje Değerlendirme",
+      "desc": "Baskı yapılacak alan ölçüleri, montaj yöntemi ve tasarım detayları değerlendirilir. Keşif gerekiyorsa yerinde inceleme yapılır."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım Onay & Malzeme Temini",
+      "desc": "Tasarım uygun formata dönüştürülür ve onayınıza sunulur. Proje için uygun kalınlık ve renkte kompozit panel temin edilir."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Kompozit panel yüzeyine flatbed UV yazıcıda doğrudan baskı uygulanır. Büyük paneller tek seferde basılarak ek yeri oluşması engellenir."
+    },
+    {
+      "step": "04",
+      "title": "Kesim, Kontrol & Teslimat",
+      "desc": "Baskılı paneller CNC ile hassas ölçülerde kesilir. Kalite kontrol ardından montaj noktasına sevkiyat yapılır."
+    }
+  ],
+  "useCases": [
+    "Bina dış cephe giydirme",
+    "Tabela ve totem altlığı",
+    "AVM ve plaza iç cephe dekorasyonu",
+    "Akaryakıt istasyonu cephe paneli",
+    "Mağaza cephe kaplama",
+    "Reklam panosu ve billboard"
+  ],
+  "faq": [
+    {
+      "q": "Kompozit panel dış cephede ne kadar dayanır?",
+      "a": "Kompozit panel üzerine UV baskı dış mekan koşullarında ortalama 7-10 yıl sorunsuz şekilde dayanır. UV stabilize mürekkepler güneş ışığına, yağmura ve sıcaklık değişimlerine karşı yüksek direnç gösterir."
+    },
+    {
+      "q": "Ne boyutta panellere baskı yapabilirsiniz?",
+      "a": "Flatbed UV yazıcımız ile tek seferde 250x130 cm boyutuna kadar baskı yapılabilir. Daha büyük projeler için paneller yan yana monte edilerek devam eden tasarımlar oluşturulabilir."
+    },
+    {
+      "q": "Kompozit panelin kalınlığı önemli mi?",
+      "a": "Baskı kalitesi açısından kalınlık fark yaratmaz; 2 mm, 3 mm ve 4 mm kompozit panellere aynı kalitede baskı yapılır. Ancak kullanım alanına göre uygun kalınlık seçimi yapısal dayanıklılık için önemlidir."
+    },
+    {
+      "q": "Montaj hizmeti de veriyor musunuz?",
+      "a": "Baskı hizmetimize ek olarak proje bazında montaj desteği de sağlayabiliyoruz. Dış cephe ve tabela montajlarında deneyimli ekiplerimizle yerinde uygulama yapılmaktadır."
+    }
+  ]
+}

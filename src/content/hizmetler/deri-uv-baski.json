@@ -1,0 +1,78 @@
+{
+  "title": "Deri UV Baskı",
+  "description": "Deri yüzeylere UV baskı hizmeti. Kişiselleştirilmiş cüzdan, çanta, kemer ve deri aksesuar üzerine özel tasarım baskı uygulamaları.",
+  "heroDesc": "Doğal ve suni deri yüzeylere uygulanan UV baskı teknolojisi ile kişiselleştirilmiş hediyelerden kurumsal promosyon ürünlerine, moda aksesuarlarından deri mobilya detaylarına kadar geniş bir yelpazede özgün baskı çözümleri sunuyoruz. Deri dokusunu bozmadan renkleri canlı ve kalıcı şekilde yüzeye aktarıyoruz.",
+  "order": 8,
+  "icon": "👜",
+  "shortDesc": "Deri ürünlere kişisel UV baskı",
+  "features": [
+    {
+      "icon": "🎁",
+      "title": "Kişiselleştirme İmkanı",
+      "desc": "İsim, logo, monogram veya özel tasarım gibi kişisel detaylar deri yüzeye doğrudan basılır. Hediye ve kurumsal promosyonlarda fark yaratan bir çözümdür."
+    },
+    {
+      "icon": "🤲",
+      "title": "Doku Koruma",
+      "desc": "UV baskı deri yüzeyin doğal dokusunu ve esnekliğini korur. Baskı sonrası deri sertleşmez, kırışmaz ve doğal hissini kaybetmez."
+    },
+    {
+      "icon": "🌈",
+      "title": "Canlı Renk Aktarımı",
+      "desc": "Koyu renkli deriler dahil her tonda yüzeye canlı ve detaylı baskı yapılır. Beyaz mürekkep alt katman ile renkler koyu zemin üzerinde bile parlak görünür."
+    },
+    {
+      "icon": "💪",
+      "title": "Esneme Dayanımı",
+      "desc": "UV mürekkepler deri yüzeyle birlikte esner ve bükülür. Cüzdan, çanta gibi günlük kullanılan ürünlerde baskı çatlamaz veya dökülmez."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Ürün & Tasarım Teslimi",
+      "desc": "Baskı yapılacak deri ürünü ve tasarımınızı bize iletirsiniz. Deri türü ve baskı alanı birlikte belirlenir."
+    },
+    {
+      "step": "02",
+      "title": "Deri Yüzey Analizi",
+      "desc": "Deri yüzeyin dokusu, rengi ve işlenme durumu incelenir. Baskı kalitesini optimize etmek için uygun ayarlar yapılır."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Deri ürün flatbed UV yazıcıya özel jigle sabitlenerek hassas şekilde baskı yapılır. İnce detaylar ve renkler yüzeye kalıcı olarak aktarılır."
+    },
+    {
+      "step": "04",
+      "title": "Kalite Kontrol & Teslimat",
+      "desc": "Baskı kalitesi, renk doğruluğu ve yapışma dayanımı kontrol edilir. Ürün koruyucu ambalajla paketlenerek teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Kişiselleştirilmiş deri cüzdan",
+    "Logolu kurumsal deri çanta",
+    "Özel tasarım deri kemer",
+    "Deri pasaportluk ve kartlık",
+    "Promosyon deri anahtarlık",
+    "Deri ajanda ve not defteri kapağı"
+  ],
+  "faq": [
+    {
+      "q": "Doğal deri üzerine UV baskı yapılabilir mi?",
+      "a": "Evet, hem doğal (hakiki) deri hem de suni deri yüzeylere UV baskı uygulanabilir. Doğal derinin gözenekli yapısı mürekkebin tutunmasını kolaylaştırır. Nubuk ve süet gibi tüylü deri yüzeylere baskı önerilmemektedir."
+    },
+    {
+      "q": "Deri UV baskı yıkamaya dayanıklı mı?",
+      "a": "UV mürekkepler deri yüzeye kalıcı olarak yapışır ve normal kullanım koşullarında dayanıklıdır. Nemli bez ile silinebilir ancak çamaşır makinesinde yıkama önerilmez. Deri bakım ürünleri baskıya zarar vermez."
+    },
+    {
+      "q": "Tek adet ürüne baskı yapılıyor mu?",
+      "a": "Evet, UV baskı teknolojisinin en büyük avantajlarından biri kalıp gerektirmemesidir. Tek bir cüzdan, çanta veya kemer üzerine bile baskı yapılabilir. Kişiye özel hediye ürünlerde bu özellik büyük kolaylık sağlar."
+    },
+    {
+      "q": "Baskı alanı ne kadar büyük olabilir?",
+      "a": "Deri ürünün boyutuna ve düzlüğüne bağlı olarak baskı alanı değişir. Düz deri parçalarda tüm yüzeye baskı yapılabilirken, dikişli ürünlerde düz kalan alanlara baskı uygulanır. Maksimum baskı alanı için ürünü önceden göndererek değerlendirme yaptırmanızı öneririz."
+    }
+  ]
+}

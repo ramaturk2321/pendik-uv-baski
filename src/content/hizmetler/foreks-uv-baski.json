@@ -1,0 +1,78 @@
+{
+  "title": "Foreks UV Baskı",
+  "description": "Foreks (PVC köpük) levhalara UV baskı hizmeti. Fuar standı, POP materyal, yönlendirme levhası ve tanıtım panosu üretiminde ekonomik çözümler.",
+  "heroDesc": "Foreks (köpük PVC) levhalar üzerine uygulanan UV baskı ile fuar standlarından satış noktası materyallerine, yönlendirme levhalarından tanıtım panolarına kadar hafif, ekonomik ve etkili görsel çözümler üretiyoruz. Foreks levhanın hafif yapısı kolay taşıma ve montaj imkanı sunarken, UV baskı kalitesi profesyonel bir görünüm sağlar.",
+  "order": 7,
+  "icon": "📋",
+  "shortDesc": "Foreks levhaya ekonomik UV baskı",
+  "features": [
+    {
+      "icon": "🪽",
+      "title": "Ultra Hafif Yapı",
+      "desc": "Foreks levha son derece hafiftir ve kolayca taşınabilir. Fuar, etkinlik ve geçici mekan düzenlemelerinde pratik çözüm sunar."
+    },
+    {
+      "icon": "💰",
+      "title": "Ekonomik Maliyet",
+      "desc": "Foreks malzemenin uygun fiyatı sayesinde büyük adetli siparişlerde bütçe dostu baskı çözümü sağlanır. Kampanya ve promosyon materyalleri için idealdir."
+    },
+    {
+      "icon": "✂️",
+      "title": "Kolay Şekillendirme",
+      "desc": "Foreks levha kolayca kesilebilir, delinebilir ve bükülebilir. CNC ile özel şekiller kesilerek dikkat çekici stand elemanları oluşturulabilir."
+    },
+    {
+      "icon": "🖼️",
+      "title": "Pürüzsüz Baskı Yüzeyi",
+      "desc": "Foreks levhanın düzgün ve pürüzsüz yüzeyi UV baskı için ideal bir zemin oluşturur. Renkler canlı ve detaylar net şekilde yansır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Tasarım Gönderimi",
+      "desc": "Baskı yapılacak tasarımınızı, foreks kalınlığını ve adet bilgisini iletirsiniz. Özel kesim şekli varsa teknik çizim paylaşılır."
+    },
+    {
+      "step": "02",
+      "title": "Baskı Öncesi Kontrol",
+      "desc": "Tasarım dosyası çözünürlük, renk modu ve kesim payı açısından kontrol edilir. Gerekli düzeltmeler yapılarak onayınız alınır."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Foreks levhalar flatbed UV yazıcıda tek veya çift yüz baskıyla üretilir. Büyük adetlerde seri üretim hızıyla teslim edilir."
+    },
+    {
+      "step": "04",
+      "title": "Kesim & Teslimat",
+      "desc": "Baskılı levhalar standart dikdörtgen veya CNC ile özel şekilde kesilir. Kalite kontrol sonrası paketlenerek teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Fuar ve sergi standı paneli",
+    "Satış noktası (POP) materyali",
+    "Yönlendirme ve bilgilendirme levhası",
+    "Emlak ve inşaat proje tanıtım panosu",
+    "Mağaza içi kampanya görseli",
+    "Eğitim ve sunum panosu"
+  ],
+  "faq": [
+    {
+      "q": "Foreks UV baskı dış mekanda kullanılabilir mi?",
+      "a": "Foreks levha kısa süreli dış mekan kullanımına uygundur. Fuar, etkinlik ve kampanya dönemlerinde dış mekanda sorunsuz performans gösterir. Uzun süreli dış mekan uygulamaları için kompozit panel tercih edilmesini öneriyoruz."
+    },
+    {
+      "q": "Hangi kalınlıklarda foreks levha kullanılır?",
+      "a": "UV baskı için en yaygın kullanılan foreks kalınlıkları 3 mm, 5 mm ve 10 mm'dir. İnce levhalar hafif uygulamalar için, kalın levhalar ise rijit yapı gerektiren stand ve pano projeleri için tercih edilir."
+    },
+    {
+      "q": "Çift taraflı baskı yapılabilir mi?",
+      "a": "Evet, foreks levhanın her iki yüzüne de UV baskı uygulanabilir. Asma tavan panelleri, çift yönlü yönlendirme levhaları ve fuar standı bölme elemanlarında çift taraflı baskı sıklıkla tercih edilmektedir."
+    },
+    {
+      "q": "Foreks baskıda minimum sipariş adedi var mı?",
+      "a": "Foreks UV baskıda minimum sipariş adedi yoktur. Tek adet bile üretim yapılabilir. Ancak 10 adet ve üzeri siparişlerde birim fiyat avantajı sağlanmaktadır."
+    }
+  ]
+}

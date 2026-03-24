@@ -1,0 +1,71 @@
+---
+import { contact, company } from '../lib/site-data';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  type?: string;
+}
+
+const { title, description, image = '/images/og-default.jpg', type = 'website' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const imageURL = new URL(image, Astro.site);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: company.name,
+  description: company.slogan,
+  url: company.siteUrl,
+  telephone: contact.phoneHref.replace('tel:', ''),
+  email: contact.email,
+  foundingDate: String(company.founded),
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Esenpınar Mah. Çevre Sk. No:7',
+    addressLocality: 'Pendik',
+    addressRegion: 'İstanbul',
+    postalCode: '34899',
+    addressCountry: 'TR',
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 40.88,
+    longitude: 29.25,
+  },
+  openingHoursSpecification: {
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    opens: '09:00',
+    closes: '18:30',
+  },
+  image: imageURL.toString(),
+  priceRange: '$$',
+  areaServed: {
+    '@type': 'City',
+    name: 'İstanbul',
+  },
+};
+---
+
+<!-- Canonical -->
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Open Graph -->
+<meta property="og:type" content={type} />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:title" content={`${title} | ${company.name}`} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={imageURL} />
+<meta property="og:locale" content="tr_TR" />
+<meta property="og:site_name" content={company.name} />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={`${title} | ${company.name}`} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={imageURL} />
+
+<!-- JSON-LD -->
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const projeler = await getCollection('projeler');
+const sortedProjeler = projeler.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
+---
+
+<BaseLayout title="Portfolyo" description="Pendik UV Baskı Merkezi portfolyosu — Cam, pleksi, ahşap ve metal UV baskı projelerimiz.">
+
+  <!-- Hero -->
+  <section class="bg-koyu-800 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-4xl md:text-5xl font-extrabold mb-4">Portfolyo</h1>
+      <p class="text-koyu-300 text-lg max-w-2xl mx-auto">Tamamladığımız UV baskı projelerinden örnekler.</p>
+    </div>
+  </section>
+
+  <section class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {sortedProjeler.length > 0 ? (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {sortedProjeler.map(p => (
+            <a href={`/portfolyo/${p.id}`} class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all border border-koyu-100">
+              <div class="aspect-[4/3] overflow-hidden bg-koyu-100">
+                <img src={p.data.image} alt={p.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+              </div>
+              <div class="p-5">
+                <span class="text-xs font-semibold text-eymen-600 bg-eymen-50 px-3 py-1 rounded-full">{p.data.material}</span>
+                <h3 class="text-lg font-bold text-koyu-800 mt-3 group-hover:text-eymen-600 transition-colors">{p.data.title}</h3>
+                <p class="text-sm text-koyu-500 mt-1">{p.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="text-center py-20">
+          <span class="text-6xl mb-4 block">📷</span>
+          <h2 class="text-2xl font-bold text-koyu-800 mb-3">Portfolyo Yakında</h2>
+          <p class="text-koyu-500 max-w-md mx-auto">Tamamladığımız UV baskı projelerini yakında burada paylaşacağız. Projelerimizi görmek için bizi takip edin.</p>
+          <a href="/teklif-al" class="inline-flex items-center gap-2 bg-eymen-500 hover:bg-eymen-600 text-white px-6 py-3 rounded-xl font-bold mt-6 transition-all">
+            Teklif Al
+          </a>
+        </div>
+      )}
+    </div>
+  </section>
+
+</BaseLayout>

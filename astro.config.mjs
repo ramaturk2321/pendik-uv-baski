@@ -1,0 +1,18 @@
+// @ts-check
+import { defineConfig } from 'astro/config';
+import tailwindcss from '@tailwindcss/vite';
+import sitemap from '@astrojs/sitemap';
+
+// https://astro.build/config
+export default defineConfig({
+  site: 'https://www.pendikuvbaski.com',
+  server: { port: 4322 },
+  integrations: [sitemap()],
+  i18n: {
+    defaultLocale: 'tr',
+    locales: ['tr'],
+  },
+  vite: {
+    plugins: [tailwindcss()],
+  },
+});

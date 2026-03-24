@@ -1,0 +1,78 @@
+{
+  "title": "Seramik UV Baskı",
+  "description": "Seramik ve fayans yüzeylere UV baskı hizmeti. Mutfak-banyo dekorasyon, seramik karo baskı ve özel desen uygulamalarında estetik çözümler.",
+  "heroDesc": "Seramik karo ve fayans yüzeylere uygulanan UV baskı teknolojisi ile mutfak ve banyo dekorasyonundan ticari mekanlara kadar her alanda kişiselleştirilmiş seramik çözümleri sunuyoruz. Mevcut seramiklerinizin üzerine baskı yaparak mekanınızı yenileyebilir veya sıfırdan özel tasarım seramik paneller oluşturabilirsiniz.",
+  "order": 5,
+  "icon": "🏺",
+  "shortDesc": "Seramik karo ve fayansa UV baskı",
+  "features": [
+    {
+      "icon": "🚿",
+      "title": "Banyo ve Islak Zemin Uyumu",
+      "desc": "UV mürekkep seramik üzerinde su geçirmez bir yüzey oluşturur. Banyo, duş alanı ve havuz kenarı gibi ıslak zeminlerde güvenle kullanılabilir."
+    },
+    {
+      "icon": "🔥",
+      "title": "Isıya Dayanıklılık",
+      "desc": "Seramik UV baskı mutfak tezgah arkası ve ocak çevresi gibi ısıya maruz kalan alanlarda sorunsuz performans gösterir."
+    },
+    {
+      "icon": "🧹",
+      "title": "Kolay Temizlik",
+      "desc": "Baskılı seramik yüzeyler düz ve pürüzsüz bir yapıya sahiptir. Standart temizlik malzemeleriyle kolayca silinebilir, leke tutmaz."
+    },
+    {
+      "icon": "🧩",
+      "title": "Çoklu Karo Kompozisyon",
+      "desc": "Birden fazla seramik karo üzerine bölünerek basılan büyük görseller ile etkileyici duvar panoları ve dekoratif yüzeyler oluşturulabilir."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Tasarım & Ölçü Planlama",
+      "desc": "Seramik ölçüleri, karo adedi ve tasarım tercihiniz belirlenir. Çoklu karo düzeni için yerleşim planı oluşturulur."
+    },
+    {
+      "step": "02",
+      "title": "Seramik Yüzey Hazırlığı",
+      "desc": "Seramik yüzey tozdan ve yağdan arındırılır. Sırlı veya mat yüzeye göre uygun ön işlem uygulanır."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Seramik karolar flatbed UV yazıcıya tek tek yerleştirilir ve tasarım hassas şekilde yüzeye basılır. Her karonun hizalaması titizlikle kontrol edilir."
+    },
+    {
+      "step": "04",
+      "title": "Kalite Kontrol & Teslimat",
+      "desc": "Her karo baskı kalitesi ve renk uyumu açısından incelenir. Karolar kırılmaya karşı özel ambalajla paketlenerek teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Mutfak tezgah arkası seramik panel",
+    "Banyo duvar dekorasyonu",
+    "Dekoratif seramik tablo",
+    "Otel ve restoran zemin/duvar karosu",
+    "Havuz kenarı dekoratif seramik",
+    "Cami ve ibadet yeri çini tasarımı"
+  ],
+  "faq": [
+    {
+      "q": "Seramik UV baskı su geçirir mi?",
+      "a": "Hayır, UV mürekkepler seramik yüzeyinde su geçirmez bir tabaka oluşturur. Banyo, mutfak ve havuz kenarı gibi suyla sürekli temas eden alanlarda güvenle kullanılabilir. Derz aralarının da uygun şekilde kapatılması tavsiye edilir."
+    },
+    {
+      "q": "Kendi seramiklerimizi getirebilir miyiz?",
+      "a": "Evet, mevcut seramik ve fayanslarınızı getirerek üzerine baskı yaptırabilirsiniz. Düz yüzeyli, sırlı veya mat her türlü seramik kabul edilmektedir. Seramik ölçülerini önceden bildirmeniz yeterlidir."
+    },
+    {
+      "q": "Büyük boyutlu seramik panolar yapılabilir mi?",
+      "a": "Evet, birden fazla seramik karo üzerine bölünerek basılan büyük boyutlu panolar üretilmektedir. 60x60 cm veya 30x60 cm karolarla metrelerce genişlikte duvar panoları oluşturulabilir."
+    },
+    {
+      "q": "Seramik baskı kaç yıl dayanır?",
+      "a": "İç mekan kullanımında seramik UV baskı 10 yılın üzerinde dayanıklılık gösterir. Baskılı yüzey çizilmeye, neme ve temizlik kimyasallarına karşı dirençlidir. Dış mekan uygulamalarında da uzun ömürlü sonuçlar elde edilir."
+    }
+  ]
+}

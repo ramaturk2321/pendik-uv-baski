@@ -1,0 +1,78 @@
+{
+  "title": "Metal UV Baskı",
+  "description": "Metal yüzeylere endüstriyel UV baskı hizmeti. Alüminyum levha, plaket, endüstriyel etiket ve kapı numarası gibi uygulamalarda kalıcı baskı.",
+  "heroDesc": "Alüminyum, paslanmaz çelik ve galvaniz gibi metal yüzeylere uygulanan UV baskı teknolojisiyle endüstriyel etiketlerden plaketlere, kapı numaralarından dekoratif metal panellere kadar geniş bir yelpazede dayanıklı ve profesyonel baskı çözümleri üretiyoruz. Dış mekan koşullarına tam dayanıklılık.",
+  "order": 4,
+  "icon": "🔩",
+  "shortDesc": "Metal levha ve plaketlere UV baskı",
+  "features": [
+    {
+      "icon": "⚙️",
+      "title": "Endüstriyel Dayanıklılık",
+      "desc": "Metal üzerine UV baskı kimyasal maddelere, aşınmaya ve darbelere karşı üstün direnç gösterir. Fabrika ve sanayi ortamlarında uzun ömürlü kullanım sağlar."
+    },
+    {
+      "icon": "🌧️",
+      "title": "Dış Mekan Performansı",
+      "desc": "UV stabilize mürekkepler metal yüzeyde yağmur, güneş, don ve tuz gibi dış etkenlere karşı yıllarca dayanır. Cephe tabelaları ve dış mekan levhaları için idealdir."
+    },
+    {
+      "icon": "🏷️",
+      "title": "Hassas Detay Baskı",
+      "desc": "QR kod, barkod, seri numarası ve mikro yazılar gibi küçük detaylar metal yüzeye keskin şekilde basılabilir. Endüstriyel izlenebilirlik için mükemmeldir."
+    },
+    {
+      "icon": "🎖️",
+      "title": "Prestijli Görünüm",
+      "desc": "Metal yüzeyin doğal parlaklığı ile UV baskı renkleri birleşerek profesyonel ve prestijli bir sonuç ortaya çıkar. Plaket ve ödül uygulamalarında tercih edilir."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Tasarım Gönderimi",
+      "desc": "Tasarım dosyanızı ve metal türü, ölçü gibi teknik bilgileri bize iletirsiniz. Metal malzeme sizden veya bizden temin edilebilir."
+    },
+    {
+      "step": "02",
+      "title": "Yüzey Temizlik & Hazırlık",
+      "desc": "Metal yüzey yağ, toz ve oksidasyondan arındırılarak baskıya hazır hale getirilir. Gerekli durumlarda astar uygulanır."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Endüstriyel flatbed UV yazıcıda metal yüzeye doğrudan baskı uygulanır. Mürekkep UV ışınlarıyla anında kürlenerek sert bir katman oluşturur."
+    },
+    {
+      "step": "04",
+      "title": "Kalite Kontrol & Teslimat",
+      "desc": "Yapışma testi, renk kontrolü ve yüzey incelemesi yapılır. Ürünler çizilmeye karşı korumalı ambalajla teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Endüstriyel etiket ve bilgi plakası",
+    "Kapı numarası ve apartman tabelası",
+    "Ödül plaketi ve hatıra levhası",
+    "Makine ve ekipman etiketi",
+    "Dekoratif metal duvar panosu",
+    "Dış mekan yönlendirme levhası"
+  ],
+  "faq": [
+    {
+      "q": "Hangi metal türlerine UV baskı yapılabilir?",
+      "a": "Alüminyum, paslanmaz çelik, galvaniz sac, bakır ve pirinç gibi yaygın metal türlerine UV baskı uygulanabilir. Boyalı veya eloksallı metal yüzeylere de başarılı baskı yapılmaktadır."
+    },
+    {
+      "q": "Metal UV baskı dış mekanda ne kadar dayanır?",
+      "a": "Dış mekan koşullarında metal UV baskı ortalama 5-8 yıl dayanıklılık gösterir. UV stabilize mürekkepler güneş ışığına, yağmura ve sıcaklık değişimlerine karşı yüksek direnç sağlar."
+    },
+    {
+      "q": "Metal üzerine beyaz baskı yapılabilir mi?",
+      "a": "Evet, koyu renkli veya doğal metal yüzeyler üzerine beyaz mürekkep ile baskı yapılabilir. Beyaz alt katman uygulamasıyla renkli tasarımlar da metal üzerinde canlı şekilde görünür."
+    },
+    {
+      "q": "Barkod ve QR kod baskısı yapılıyor mu?",
+      "a": "Evet, metal yüzeylere yüksek çözünürlüklü barkod, QR kod ve seri numarası baskısı yapılmaktadır. Endüstriyel izlenebilirlik ve envanter yönetimi için okunaklı ve dayanıklı etiketler üretiyoruz."
+    }
+  ]
+}

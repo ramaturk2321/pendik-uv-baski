@@ -1,0 +1,78 @@
+{
+  "title": "Cam UV Baskı",
+  "description": "Cam yüzeylere yüksek çözünürlüklü UV baskı hizmeti. Mutfak tezgah arası, duş kabini, ofis cam bölme ve dekoratif cam panellerde kusursuz baskı.",
+  "heroDesc": "Cam yüzeylere doğrudan uygulanan UV baskı teknolojisi ile mutfak tezgah arası panellerden duş kabinlerine, ofis cam bölmelerden dekoratif cam panellere kadar geniş bir yelpazede canlı, dayanıklı ve çizilmeye karşı dirençli baskılar üretiyoruz. Temperli ve lamine cam dahil her türlü cam yüzeye uygulanabilir.",
+  "order": 1,
+  "icon": "🪟",
+  "shortDesc": "Cam yüzeylere dayanıklı UV baskı",
+  "features": [
+    {
+      "icon": "🎨",
+      "title": "Fotoğraf Kalitesinde Baskı",
+      "desc": "1440 DPI çözünürlükte cam yüzeylere fotoğraf kalitesinde baskı yapılır. Renkler canlı, detaylar net ve keskindir."
+    },
+    {
+      "icon": "💧",
+      "title": "Su ve Nem Dayanımı",
+      "desc": "UV mürekkepler cam üzerinde su geçirmez bir tabaka oluşturur. Mutfak ve banyo gibi nemli ortamlarda yıllarca sorunsuz kullanım sağlar."
+    },
+    {
+      "icon": "☀️",
+      "title": "UV ve Çizilme Direnci",
+      "desc": "Güneş ışığına maruz kalan alanlarda bile renk solması yaşanmaz. Özel UV mürekkep formülasyonu çizilmelere karşı üstün direnç sunar."
+    },
+    {
+      "icon": "📐",
+      "title": "Özel Ölçü Üretim",
+      "desc": "Her projeye özel ölçülerde cam baskı yapılır. Milimetrik hassasiyetle kesim ve baskı ile mekana tam uyum sağlanır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Tasarım Gönderimi",
+      "desc": "Baskı yapılacak tasarımınızı veya fikrinizi bize iletirsiniz. Cam ölçüleri ve kullanım alanı bilgisi paylaşılır."
+    },
+    {
+      "step": "02",
+      "title": "Renk Profili & Prova",
+      "desc": "Tasarım cam baskıya uygun renk profiline dönüştürülür. Gerekirse dijital prova hazırlanarak onayınıza sunulur."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Onaylanan tasarım, endüstriyel UV flatbed yazıcılarla cam yüzeye doğrudan basılır. Mürekkep anında kürlenerek sert bir yüzey oluşturur."
+    },
+    {
+      "step": "04",
+      "title": "Kalite Kontrol & Teslimat",
+      "desc": "Baskı sonrası renk doğruluğu, yüzey kalitesi ve yapışma mukavemeti kontrol edilir. Güvenli ambalajla teslimat yapılır."
+    }
+  ],
+  "useCases": [
+    "Mutfak tezgah arası cam panel",
+    "Duş kabini cam baskı",
+    "Ofis cam bölme dekorasyonu",
+    "Dekoratif cam duvar paneli",
+    "Mağaza vitrin camı",
+    "Otel lobi cam dekorasyon"
+  ],
+  "faq": [
+    {
+      "q": "Cam UV baskı mutfak tezgah arkasında kullanılabilir mi?",
+      "a": "Evet, cam UV baskı mutfak tezgah arası panelleri için idealdir. UV mürekkepler ısıya, neme ve yağa karşı dayanıklıdır. Temperli cam üzerine yapılan baskılar yıllarca ilk günkü canlılığını korur."
+    },
+    {
+      "q": "Hangi cam türlerine UV baskı yapılabilir?",
+      "a": "Düz cam, temperli cam, lamine cam ve buzlu cam dahil olmak üzere hemen hemen tüm düz cam yüzeylere UV baskı uygulanabilir. Cam kalınlığı genellikle 4 mm ile 19 mm arasında olabilir."
+    },
+    {
+      "q": "Cam UV baskıda renk solması olur mu?",
+      "a": "UV kürleme teknolojisi sayesinde mürekkepler anında sertleşir ve güneş ışığına karşı yüksek direnç gösterir. Normal kullanım koşullarında en az 7-10 yıl renk canlılığı korunur."
+    },
+    {
+      "q": "Minimum sipariş adedi var mı?",
+      "a": "Cam UV baskıda minimum sipariş adedi yoktur. Tek bir panel için bile üretim yapılabilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Ahşap / MDF UV Baskı",
+  "description": "Ahşap ve MDF yüzeylere UV baskı hizmeti. Mobilya paneli, duvar dekoru, kapı kaplama ve dekoratif ahşap uygulamalarında profesyonel çözümler.",
+  "heroDesc": "Ahşap ve MDF panellere doğrudan uygulanan UV baskı teknolojisi ile mobilya sektöründen iç mimari projelere kadar geniş bir alanda estetik ve dayanıklı baskı çözümleri sunuyoruz. Doğal ahşap dokusunu koruyarak veya tamamen yeni bir görünüm kazandırarak mekanlarınıza değer katıyoruz.",
+  "order": 3,
+  "icon": "🪵",
+  "shortDesc": "Ahşap ve MDF panellere UV baskı",
+  "features": [
+    {
+      "icon": "🌳",
+      "title": "Doğal Doku Koruma",
+      "desc": "Ahşabın doğal damar desenini ve dokusunu koruyarak üzerine baskı yapılabilir. Şeffaf veya yarı şeffaf baskı seçenekleriyle doğal güzellik ön plana çıkarılır."
+    },
+    {
+      "icon": "🏠",
+      "title": "İç Mekan Dekorasyon",
+      "desc": "Duvar panelleri, tavan kaplamaları ve bölme elemanlarında fotoğrafik baskı kalitesi sunar. Herhangi bir tasarım ahşap yüzeye aktarılabilir."
+    },
+    {
+      "icon": "🔒",
+      "title": "Yüzey Koruma Katmanı",
+      "desc": "UV mürekkepler ahşap yüzeyde koruyucu bir tabaka oluşturarak çizilme, lekelenme ve neme karşı ek koruma sağlar."
+    },
+    {
+      "icon": "🎯",
+      "title": "Yüksek Yapışma Gücü",
+      "desc": "Ahşap ve MDF yüzeylerin gözenekli yapısı sayesinde UV mürekkep mükemmel tutunma sağlar. Kabartma efektli baskı seçeneği de mevcuttur."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Tasarım & Ölçü Belirleme",
+      "desc": "Baskı yapılacak tasarım ve ahşap/MDF panel ölçüleri belirlenir. Yüzey tipi ve istenen efekt hakkında bilgi alınır."
+    },
+    {
+      "step": "02",
+      "title": "Yüzey Hazırlık & Prova",
+      "desc": "Ahşap yüzey temizlenir ve gerekirse astar uygulanır. Renk provası oluşturularak onayınıza sunulur."
+    },
+    {
+      "step": "03",
+      "title": "UV Baskı Uygulama",
+      "desc": "Hazırlanan panel flatbed UV yazıcıya yerleştirilir ve tasarım doğrudan yüzeye basılır. İstenirse kabartma veya lak efekti eklenir."
+    },
+    {
+      "step": "04",
+      "title": "Kalite Kontrol & Teslimat",
+      "desc": "Baskı kalitesi, renk tutarlılığı ve yüzey pürüzsüzlüğü kontrol edilir. Panel koruyucu ambalajla paketlenerek teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Mobilya kapak ve panel baskısı",
+    "Dekoratif ahşap duvar paneli",
+    "Kapı kaplama ve süsleme",
+    "Restoran ve kafe iç dekorasyon",
+    "Fotoğraflı ahşap tablo",
+    "Mutfak dolap kapağı baskısı"
+  ],
+  "faq": [
+    {
+      "q": "Ham ahşap üzerine UV baskı yapılabilir mi?",
+      "a": "Evet, ham ahşap yüzeylere UV baskı uygulanabilir. Baskı öncesi yüzey düzeltme ve gerekirse astar uygulaması yapılarak mükemmel sonuçlar elde edilir. Ahşabın doğal deseni baskıyla birleştirilerek özgün tasarımlar oluşturulabilir."
+    },
+    {
+      "q": "MDF üzerine UV baskı dayanıklı mı?",
+      "a": "MDF yüzeyler UV baskı için oldukça uygundur ve yüksek yapışma mukavemeti sağlar. Laminasyonlu veya boyalı MDF panellerde de başarılı sonuçlar alınır. Normal kullanım koşullarında baskı yıllarca dayanıklılığını korur."
+    },
+    {
+      "q": "Kabartma efektli baskı yapılabilir mi?",
+      "a": "Evet, UV baskı teknolojimiz ile ahşap ve MDF yüzeylerde kabartma (rölyef) efekti oluşturulabilir. Vernik katmanları üst üste uygulanarak dokunulabilir bir doku elde edilir. Bu özellik özellikle dekoratif panellerde ve lüks ambalajlarda tercih edilmektedir."
+    }
+  ]
+}

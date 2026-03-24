@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.pendikuvbaski.com/sitemap-index.xml

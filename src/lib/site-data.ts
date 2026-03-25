@@ -13,7 +13,7 @@ export const contact = {
   whatsappUrl: 'https://wa.me/905356647752',
   email: 'info@pendikuvbaski.com',
   emailHref: 'mailto:info@pendikuvbaski.com',
-  address: 'Esenpınar Mah. Çevre Sk. No:7 Pendik / İstanbul',
+  address: 'Esenler Mah. Çevre Sk. No: 7 Pendik / İSTANBUL',
   addressShort: 'Pendik, İstanbul',
   mapsUrl: 'https://maps.google.com/?q=Eymen+Reklam+Pendik',
 };
